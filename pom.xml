@@ -56,7 +56,7 @@
                             <addClasspath>true</addClasspath>
                             <useUniqueVersions>false</useUniqueVersions>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.example.demo.DemoApplication</mainClass>
+                            <mainClass>com.html2image.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
